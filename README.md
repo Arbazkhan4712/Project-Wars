@@ -3,7 +3,9 @@
 Hey,
  My name is [ARBAZ KHAN](https://arbazkhan4712.github.io/Contact.html) I have percived my diploma in Computer Science and I have more than 5 Year's of exprience in Computer Science Field in different domains like Networking , Ethical Hacking , Web Development etc. I'm Currently perceiving bachelor's in Computer Science
  
-  I have created this repo for anyone who are wiling to share their open source projects and compete in a competition Project Wars and the best Project will be getting 50$ prize.
+##  I have created this repo for anyone who are wiling to share their open source projects and compete in a competition Project Wars and the best Project will be getting 50$ prize.
+  
+  #### Anyone can Participate their are no Restrictions But the should involve Programming
 
   #### To particepate fill this form :- [Link](https://forms.gle/pRr8QVDUKYvVb4YM7)
 
