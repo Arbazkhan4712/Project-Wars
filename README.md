@@ -5,7 +5,7 @@ Hey,
  
 ##  I have created this repo for anyone who are wiling to share their open source projects and compete in a competition Project Wars and the best Project will be getting 50$ prize.
   
-  #### Anyone can Participate their are no Restrictions But the should involve Programming
+  #### Anyone can Participate their are no Restrictions But the Project should involve Programming
 
   #### To particepate fill this form :- [Link](https://forms.gle/pRr8QVDUKYvVb4YM7)
 
