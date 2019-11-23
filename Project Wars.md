@@ -25,13 +25,16 @@ Name| Project Link | Language | Duration | Video if any| Description
 
 
 ## For  More Details Contact:-
+
 [Gmail](getsetcoding47@gmail.com)
+
 [What's App](https://wa.me/+918788855641)
 
 
 #### Join Our Community For More :- 
 
 [Telegram Channel](https://t.me/joinchat/AAAAAEVqSOwkfrxUWytwXw)
+
 [What's App Group](https://chat.whatsapp.com/Be7CtsGC5ofAvS4IZbJ36z)
 
 
